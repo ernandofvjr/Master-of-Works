@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry excluding="src/|resources/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="resources/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="resources/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="resources/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="resources/iText-5.0.5.jar"/>
+	<classpathentry kind="lib" path="resources/mail.jar"/>
+	<classpathentry kind="lib" path="resources/synthetica.jar"/>
+	<classpathentry kind="lib" path="resources/xstream-1.4.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

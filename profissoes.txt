@@ -1,0 +1,33 @@
+Engenheiro civil
+Arquiteto
+Tecnólogo em construção de edifícios
+Médico do Trabalho
+Enfermeiro do trabalho
+Engenheiro de segurança do trabalho
+Técnico em segurança do trabalho
+Técnico em edificações
+Mestre de obras
+Apontador
+Encarregado
+Pedreiro
+Ajudante de Pedreiro
+Carpinteiro
+Ajudante de carpinteiro
+Armador
+Ajudante de Armador
+Eletricistas
+Ajudante de Eletricista
+Encanadores
+Ajudante de Encanador
+Pintor
+Ajudante de pintor
+Ladrilhista
+Operador de perfuratriz hidráulica
+Operador de guindaste
+Operador de grua
+Operador de trator
+Operador de pás-carregadeira
+Operador de retroescavadeira
+Operador de empilhadeira
+Operador de moto niveladora
+Blaster

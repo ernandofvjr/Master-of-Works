@@ -1,0 +1,76 @@
+Limpeza do terreno
+Demolições
+Transporte horizontal
+Transporte vertical
+Terraplanagem
+Corte
+Aterro
+Reaterro
+Compactação
+Tapume
+Locação da obra
+Instalações provisórias energia elétrica
+Instalações provisórias água/esgoto
+Instalação do canteiro de obras
+Escavação das valas da fundação
+Regularização do fundo da escavação
+Fundação de pedra argamassada
+Fundação de sapata isolada
+Execução de viga baldrame
+Fundação de sapata corrida
+Fundação de estacas metálicas
+Fundação de estacas tipo Franki
+Fundação de estacas tipo Strauss
+Fundação de estacas tipo Raiz
+Fundação de estacas hélice contínua
+Contrapiso
+Impermeabilização
+Montagem das armaduras
+Montagem das formas
+Escoramento das formas
+Preparo do concreto
+Transporte do concreto
+Lançamento do concreto
+Adensamento do concreto
+Cura do concreto
+Desforma do concreto
+Lajes Pré-Moldadas de Concreto
+Execução da alvenaria de vedação
+Execução da alvenaria estrutural
+Preparo de argamassa
+Revestimento chapisco
+Revestimento reboco
+Revestimento emboço
+Execução de vergas e contravergas
+Execução de cintas
+Estrutura de madeira para telhado
+Estrutura metálica para telhado
+Colocação das telhas
+Colocação das calhas
+Instalação hidrossanitária
+Instalação elétrica
+Instalação de combate a incêndio
+Instalação de telefone
+Regularização do piso
+Piso cimentado
+Piso cerâmico
+Piso de granilite
+Piso de porcelanato
+Piso de madeira
+Piso de laminado melamínico
+Piso de carpete
+Piso de rocha
+Piso intertravado paver
+Piso de ladrilho hidráulico
+Soleira
+Rodapé
+Esquadrias
+Forro de gesso
+Forro de PVC
+Massa corrida
+Lixamento
+Pintura das paredes
+Pintura de esquadrias
+Execução de juntas de dilatação
+Metais e acessórios
+Limpeza final
